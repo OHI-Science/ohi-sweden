@@ -1,3 +1,3 @@
 require(methods)
 suppressWarnings(require(ohicore))
-launch_app()
+ohicore::launch_app('~/github/swe/subcountry2014')
